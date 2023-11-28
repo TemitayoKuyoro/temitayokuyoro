@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a Web Developer. I enjoy building engaging websites and apps.
 
 <!--
 **TemitayoKuyoro/temitayokuyoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
